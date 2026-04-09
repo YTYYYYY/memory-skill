@@ -1,0 +1,5 @@
+memory/
+memory-bak/
+.memory-storage/
+.tmp-storage/
+tmp.json
